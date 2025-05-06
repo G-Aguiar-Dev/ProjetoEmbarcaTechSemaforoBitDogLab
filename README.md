@@ -3,7 +3,7 @@ Projeto de desenvolvimento de um semáforo na BitDogLab, utilizando o sistema op
 
 # Vídeo Demonstração
 
-
+https://youtu.be/SHkXxkMwB-8
 
 # Hardware/Firmware
 
